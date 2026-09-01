@@ -9,4 +9,4 @@ This repository contains a micro-portfolio demonstrating the core components of 
 *   **File 3: Audit Working Paper** - A simulated compliance audit testing IT response times against the policy SLA, complete with a Corrective Action Plan (CAPA) utilizing SIEM/SOAR automation.
 
 ## Credits
-Scenario taken from https://github.com/ewelina-kowalska-oneill/GRC-Portfolio/tree/main
+Incident scenario taken from https://github.com/ewelina-kowalska-oneill/GRC-Portfolio/tree/main
